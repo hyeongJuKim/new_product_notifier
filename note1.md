@@ -1,4 +1,4 @@
-# 파이썬으로 웹 크롤링하기
+# 파이썬으로 웹크롤링(1)
 
 
 
@@ -17,10 +17,9 @@
 - 언어 : Python3
 - 개발 툴
   - IDE - Pycharm
-  - Text Editor - SubLimeText2
+  - Text Editor - SublimeText2
   - Note(MarkDown) - Typora
-  - BrainSt - mindmeister
-  - ​
+  - Brainstorming - mindmeister
 
 
 

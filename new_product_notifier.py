@@ -75,7 +75,6 @@ if int_last_total >= int_now_total or bool_new_item:
     bot.sendMessage(210535889, '메뉴를 선택하세요',reply_markup=show_keyboard)
 
 
-
 elif int_last_total < int_now_total or bool_new_item:
     print("총 상품 갯수가 다르다.")
 
